@@ -1,0 +1,4 @@
+bin/
+ob/
+appsettings.jason
+*.db
