@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\API.csproj": {}
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\API.csproj": {
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\obj\\",
+        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj"
+              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj"
               }
             }
           }
@@ -56,6 +56,14 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -71,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj": {
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -97,11 +105,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj"
+              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -130,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj": {
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -182,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -208,8 +216,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj"
+              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj"
               }
             }
           }
@@ -223,6 +231,14 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
