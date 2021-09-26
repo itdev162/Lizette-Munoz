@@ -12151,11 +12151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\API\\obj\\",
+      "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12174,8 +12174,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj"
+            "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj"
             }
           }
         }

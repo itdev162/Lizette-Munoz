@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj": {}
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj": {
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj"
+              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj": {
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Lmuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -141,8 +141,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\lizette-munoz\\Domain\\Domain.csproj"
+              "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lmuno\\OneDrive\\Desktop\\ITDEV-162\\Lizette-munoz\\Domain\\Domain.csproj"
               }
             }
           }
